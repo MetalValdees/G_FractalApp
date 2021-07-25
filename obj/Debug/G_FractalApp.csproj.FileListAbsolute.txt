@@ -1,0 +1,9 @@
+G:\Projects\G_FractalApp\bin\Debug\G_FractalApp.exe
+G:\Projects\G_FractalApp\bin\Debug\G_FractalApp.pdb
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.csprojAssemblyReference.cache
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.Form1.resources
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.Properties.Resources.resources
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.csproj.GenerateResource.cache
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.csproj.CoreCompileInputs.cache
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.exe
+G:\Projects\G_FractalApp\obj\Debug\G_FractalApp.pdb
